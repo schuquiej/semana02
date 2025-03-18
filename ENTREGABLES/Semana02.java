@@ -21,7 +21,9 @@ public class Semana02 {
         // TODO code application logic here
 
 
+        // se crean las clases para poder agregar objetos a un listado
         MCliente datosCliente = new MCliente();
+        // se crea la clase clientes para poder acceder a la funcionalidad
         Cliente cliente = new Cliente();
 
 
